@@ -48,5 +48,6 @@ public class Persona implements Usuario {
             contador ++;
         }
 
+        return output;
     }
 }

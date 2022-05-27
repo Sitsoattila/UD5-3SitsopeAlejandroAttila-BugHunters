@@ -1,6 +1,6 @@
 package com.digitalcastaway.biblioteca;
 
-public class Catalogo {
+public class Catalogo<I extends Number> {
 
     public static final String []libros = {
             "El Quijote",
